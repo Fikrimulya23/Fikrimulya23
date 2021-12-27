@@ -1,8 +1,36 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrimulya23&theme=graywhite)](https://git.io/streak-stats)
+<h2 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+ I'm Fikri Mulya Permana!</h2>
 
-![](https://media0.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=790b7611b99dd0a049f5bd3eac026b6c064f29e11c22ff66&rid=giphy.gif&ct=gf)
+<a href="https://www.linkedin.com/in/fikri-mulya-permana-375419174/">
+  <img align="left" alt="Fikri's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/fikrimulyap23/">
+  <img align="left" alt="Fikri's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/fikrimulyapermana">
+  <img align="left" alt="Fikri's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/">
+  <img align="left" alt="Fikri's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+
+<br />
+<br />
+
+A *MOBILE DEVELOPMENT* **Enthusiast** 🚀.
+ 
+
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=790b7611b99dd0a049f5bd3eac026b6c064f29e11c22ff66&rid=giphy.gif&ct=gf" width='400px'/>
+
+*About Me!*
+
+- 👨🏽‍💻 I’m currently a computer science student at the University of Lampung.
+- 🌱 My interest lies in mobile development.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [asbiqalalawi@gmail.com](mailto:asbiqalalawi@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrimulya23&theme=graywhite&count_private=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/Fikrimulya23/Fikrimulya23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikrimulya23&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -18,6 +46,7 @@
 [![Years Badge](https://badges.pufler.dev/years/fikrimulya23)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/fikrimulya23/fikrimulya23)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/fikrimulya23/fikrimulya23)](https://badges.pufler.dev)
+
 <!-- 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 

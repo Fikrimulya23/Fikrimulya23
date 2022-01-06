@@ -27,7 +27,7 @@ A *MOBILE DEVELOPMENT* **Enthusiast** 🚀.
 - 👨🏽‍💻 I’m currently a computer science student at the University of Lampung.
 - 🌱 My interest lies in mobile development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [asbiqalalawi@gmail.com](mailto:asbiqalalawi@gmail.com).
+- 📫 Email me at [fikrimulyapermana00@gmail.com](mailto:fikrimulyapermana00@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrimulya23&theme=graywhite&count_private=true)](https://git.io/streak-stats)

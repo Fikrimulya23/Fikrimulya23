@@ -30,15 +30,10 @@ A *MOBILE DEVELOPMENT* **Enthusiast** 🚀.
 - 📫 Email me at [fikrimulyapermana00@gmail.com](mailto:fikrimulyapermana00@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrimulya23&theme=graywhite&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fikrimulya23&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&background=FFFFFF&sideNums=000000&currStreakNum=000000&sideLabels=00000054)](https://git.io/streak-stats)
 
-<a href="https://github.com/Fikrimulya23/Fikrimulya23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikrimulya23&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Fikrimulya23/Fikrimulya23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fikrimulya23&show_icons=true&line_height=27&count_private=true&title_color=9225da&text_color=ffffff&icon_color=9225da&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrimulya23&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrimulya23&count_private=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fikrimulya23&left_color=grey&right_color=purple)
 [![Repos Badge](https://badges.pufler.dev/repos/fikrimulya23)](https://badges.pufler.dev)
